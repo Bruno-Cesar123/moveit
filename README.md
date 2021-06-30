@@ -2,7 +2,7 @@
 
 
 ## Descrição do Projeto
-<p>Projeto desenvolvido ultilizando a técnica de pomodoro, que consiste voce trabalhar/estudar por 25 minutos e tirar 5 minutos para fazer algum exercício, o moveit irá te ajudar nisso.</p>
+<p>Projeto desenvolvido ultilizando a técnica de pomodoro, que consiste voce trabalhar/estudar por 25 minutos e tirar 5 minutos para fazer algum exercício, o moveit irá te ajudar nisso, desenvolvido duarate a NLW, treinamento da Rocketseat.</p>
 
 
 <h4> 
